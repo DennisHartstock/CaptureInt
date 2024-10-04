@@ -1,0 +1,14 @@
+D:\C#\CaptureInt\bin\Debug\net8.0\CaptureInt.exe
+D:\C#\CaptureInt\bin\Debug\net8.0\CaptureInt.deps.json
+D:\C#\CaptureInt\bin\Debug\net8.0\CaptureInt.runtimeconfig.json
+D:\C#\CaptureInt\bin\Debug\net8.0\CaptureInt.dll
+D:\C#\CaptureInt\bin\Debug\net8.0\CaptureInt.pdb
+D:\C#\CaptureInt\obj\Debug\net8.0\CaptureInt.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\CaptureInt\obj\Debug\net8.0\CaptureInt.AssemblyInfoInputs.cache
+D:\C#\CaptureInt\obj\Debug\net8.0\CaptureInt.AssemblyInfo.cs
+D:\C#\CaptureInt\obj\Debug\net8.0\CaptureInt.csproj.CoreCompileInputs.cache
+D:\C#\CaptureInt\obj\Debug\net8.0\CaptureInt.dll
+D:\C#\CaptureInt\obj\Debug\net8.0\refint\CaptureInt.dll
+D:\C#\CaptureInt\obj\Debug\net8.0\CaptureInt.pdb
+D:\C#\CaptureInt\obj\Debug\net8.0\CaptureInt.genruntimeconfig.cache
+D:\C#\CaptureInt\obj\Debug\net8.0\ref\CaptureInt.dll
